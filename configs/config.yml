@@ -1,0 +1,7 @@
+#minutes
+max_video_duration: 60
+
+#seconds
+max_download_time: 30
+
+bot_username: "@uttomp3_bot"
